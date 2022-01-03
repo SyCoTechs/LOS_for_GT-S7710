@@ -1,5 +1,5 @@
 # LOS_for_GT-S7710
-Here are the technical files combined at one place to build LOS for the Samsung GT-S7710 device
+Here are the technical files combined at one place to build LOS 15.1 for the Samsung GT-S7710 device
 
 This project is work in progress
 
